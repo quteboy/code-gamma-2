@@ -1,0 +1,67 @@
+.help{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.card {
+    width: 250px;
+    height: 200px;
+    border: none;
+}
+
+.card-body {
+    background-image: url(../Youtube\ Thumbnail.jpg);
+    color: rgba(51, 51, 51, 0.5);
+}
+
+.card-deck {
+    padding-top: 20px;
+    padding-left: 35px;
+}
+
+.stamp {
+    float: right;
+    margin-top: 99px;
+    margin-right: -20px;
+    background-color: rgba(0, 0,0, 0.5)
+}
+
+.rating {
+    color: springgreen;
+}
+
+.watched {
+    background-color: steelblue;
+}
+
+.opt {
+    float: right;
+    margin-top: -25px;
+    margin-right: - 25px;
+    margin-bottom: -100px;
+}
+
+.opt2{
+    float: left;
+    margin-left: -19px;
+    margin-top: -19px;
+    color: seashell;
+    background-color:rgba(0, 0,0, 0.7);
+    border-radius: 5%;
+}
+
+h6{
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: 600;
+    
+}
+
+li{
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: lighter;
+}
+button{
+    font-family: 'Hind Guntur', sans-serif;
+    font-weight: bold;
+}

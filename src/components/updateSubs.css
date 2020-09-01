@@ -1,0 +1,45 @@
+
+.subs {
+     background-color: honeydew;
+     max-height: 200px;
+     line-height: 75px;
+     max-width: 100px;
+     border-radius: 50%;
+     text-align: center;
+     margin-top: 5px;
+     
+}
+.container {
+    margin-left: 55px;
+}
+
+
+.subs-7 {
+     background-color:red;
+     max-height: 200px;
+     line-height: 75px;
+     max-width: 100px;
+     border-radius: 50%;
+     text-align: center;
+     margin-top: 5px;
+ }
+ .subs-9 {
+     max-height: 200px;
+     line-height: 75px;
+     max-width: 100px;
+     border-radius: 50%;
+     text-align: center;
+     background-color:royalblue;
+     margin-top: 5px;
+    
+}
+ .ddown2 {
+    float: inline-end;
+    margin-left: 150px ;
+
+}
+.help{
+    display: flex;
+    justify-content: space-between;
+}
+
